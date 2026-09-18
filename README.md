@@ -1,15 +1,18 @@
 <div align="center">
 
+<!-- FULL WIDTH ANIMATED BANNER (denia.gif) -->
 <img src="denia.gif" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
+<!-- ANIMATED TYPOGRAPHY HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F29FB0&center=true&vCenter=true&width=450&lines=ADAM+NUR+SETYAWAN;ADMINISTRASI+%26+LOGISTIK;CODE+%26+TECH+AUTOMATION;CREATIVE+ENTHUSIAST" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=40&section=header" width="100%"/>
 </p>
 
+<!-- TENTANG SAYA -->
 <h2 align="center">T E N T A N G &nbsp; S A Y A</h2>
 
 <p align="center" style="max-width: 820px; font-size: 15px; line-height: 1.8; color: #E6EDF3;">
@@ -22,6 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
+<!-- SOCIALS -->
 <h2 align="center">M A R I &nbsp; T E R H U B U N G</h2>
 
 <p align="center">
@@ -41,6 +45,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
+<!-- TECH STACK -->
 <h2 align="center">T E K N O L O G I &nbsp; & &nbsp; P E R A L A T A N</h2>
 
 <h3 align="center">Frontend & Core Programming</h3>
@@ -94,6 +99,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
 </p>
 
+<!-- SNAKE GAME -->
 <h2 align="center">K O N T R I B U S I &nbsp; G I T H U B</h2>
 
 <p align="center">
@@ -104,10 +110,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=30&section=header" width="100%"/>
 </p>
 
+<!-- RINGKASAN KONTRIBUSI -->
 <h2 align="center">R I N G K A S A N &nbsp; K O N T R I B U S I</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&show_icons=true" width="95%" alt="Statistik Profil" />
+  <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&show_icons=true&include_all_commits=true" width="95%" alt="Statistik Profil" />
 </p>
 
 <p align="center">
@@ -118,16 +125,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<h2 align="center">G R A F I K &nbsp; A K T I V I T A S</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=republikofxontol&bg_color=0D1117&color=F29FB0&line=DE7793&point=FAC4C8&area=true&hide_border=false&border_color=F29FB0" width="95%" alt="Grafik Aktivitas GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
-</p>
-
+<!-- STATISTIK AKTIVITAS -->
 <h2 align="center">S T A T I S T I K &nbsp; A K T I V I T A S</h2>
 
 <p align="center">
@@ -145,9 +143,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
+<!-- DUKUNGAN -->
 <h2 align="center">D U K U N G A N</h2>
 
 <p align="center">
