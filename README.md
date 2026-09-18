@@ -1,31 +1,32 @@
 <div align="center">
 
-<!-- FULL WIDTH HEADER VIDEO / BANNER -->
-<video src="https://u.pone.rs/finiaagm.mp4" autoplay loop muted playsinline width="100%"></video>
+<!-- FULL WIDTH HEADER BANNER -->
+<!-- Catatan: Untuk animasi banner di GitHub, gunakan file GIF atau URL video internal GitHub (user-attachments) -->
+<img src="https://cdn.nekohime.site/file/tcbddhqs.mp4" width="100%" alt="Header Banner" style="border-radius: 8px;" />
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED HEADER TYPOGRAPHY -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=1000&color=F29FB0&center=true&vCenter=true&width=650&lines=ADAM+NUR+SETYAWAN;ADMINISTRASI+%26+LOGISTIK;CODE+%26+TECH+AUTOMATION;CREATIVE+ENTHUSIAST" alt="Typing SVG" />
+<!-- ANIMATED HEADER TYPOGRAPHY (RESPONSIF HP & PC) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=F29FB0&center=true&vCenter=true&width=450&lines=ADAM+NUR+SETYAWAN;ADMINISTRASI+%26+LOGISTIK;CODE+%26+TECH+AUTOMATION;CREATIVE+ENTHUSIAST" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=50&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=40&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: ABOUT ME -->
+<!-- TENTANG SAYA -->
 <h2 align="center">T E N T A N G &nbsp; S A Y A</h2>
 
-<p align="center" style="max-width: 800px; font-size: 16px; line-height: 1.8;">
+<p align="center" style="max-width: 820px; font-size: 15px; line-height: 1.8; color: #E6EDF3;">
   <b>Profesional Otomatisasi & Tata Kelola Perkantoran</b> yang berdedikasi terhadap efisiensi operasional dan sistem manajerial yang terstruktur.<br/>
   Memiliki keahlian mendalam dalam <b>arsitektur kearsipan digital</b>, <b>korespondensi bisnis</b>, <b>manajemen basis data</b>, serta <b>alur operasional logistik tingkat lanjut</b>.<br/><br/>
-  <i>Lebih dari sekadar administrator, saya memiliki antusiasme besar pada rekayasa perangkat lunak dan otomasi teknologi.<br/> Saya memadukan logika komputasi modern dengan kebutuhan operasional bisnis untuk menciptakan ekosistem kerja yang lebih cerdas, cepat, dan produktif.</i>
+  <i>Lebih dari sekadar administrator, saya memiliki antusiasme besar pada rekayasa perangkat lunak dan otomasi teknologi. Saya memadukan logika komputasi modern dengan kebutuhan operasional bisnis untuk menciptakan ekosistem kerja yang lebih cerdas, cepat, dan produktif.</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: SOCIALS -->
+<!-- SOCIALS -->
 <h2 align="center">M A R I &nbsp; T E R H U B U N G</h2>
 
 <p align="center">
@@ -45,10 +46,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: TECH STACK -->
+<!-- TECH STACK -->
 <h2 align="center">T E K N O L O G I &nbsp; & &nbsp; P E R A L A T A N</h2>
 
-### Frontend & Core Programming
+<h3 align="center">Frontend & Core Programming</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F29FB0?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-F2B5B9?style=for-the-badge&logo=css3&logoColor=white" />
@@ -62,7 +63,7 @@
   <img src="https://img.shields.io/badge/Vite-F2B5B9?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### Backend & Cloud Infrastructure
+<h3 align="center">Backend & Cloud Infrastructure</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-F29FB0?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F2B5B9?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -80,7 +81,7 @@
   <img src="https://img.shields.io/badge/Docker-F29FB0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Office, Tools & Creative Engines
+<h3 align="center">Office, Tools & Creative Engines</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-F29FB0?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Word-F2B5B9?style=for-the-badge&logo=microsoftword&logoColor=white" />
@@ -99,54 +100,60 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: SNAKE GAME -->
+<!-- SNAKE GAME -->
 <h2 align="center">K O N T R I B U S I &nbsp; G I T H U B</h2>
 
 <p align="center">
-  <img src="https://github.com/republikofxontol/republikofxontol/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%" alt="GitHub Contribution Grid Snake" />
+  <img src="https://raw.githubusercontent.com/republikofxontol/republikofxontol/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: CHESS -->
-<h2 align="center">A R E N A &nbsp; C A T U R</h2>
+<!-- STATISTIK KONTRIBUSI (SIMETRIS & PRESISI) -->
+<h2 align="center">R I N G K A S A N &nbsp; K O N T R I B U S I</h2>
 
-<p align="center">
-  <a href="https://chess.com" target="_blank">
-    <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&hide_border=true&custom_title=CHESS%20%26%20CODE%20STRATEGY&show_icons=true" width="48%" />
-  </a>
-  <a href="https://lichess.org" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=republikofxontol&background=0D1117&fire=DE7793&ring=F29FB0&currStreakLabel=FAC4C8&sideNums=F2B5B9&sideLabels=EEADB9&dates=FAC4C8&hide_border=true" width="48%" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="4" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&show_icons=true" width="100%" alt="Statistik Profil" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=republikofxontol&theme=dark&background=0D1117&border=F29FB0&stroke=F29FB0&ring=DE7793&fire=DE7793&currStreakLabel=FAC4C8&sideNums=F2B5B9&sideLabels=EEADB9&dates=FAC4C8" width="100%" alt="Statistik Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: STATS -->
+<!-- AKTIVITAS & KUTIPAN (SIMETRIS & PRESISI) -->
 <h2 align="center">S T A T I S T I K &nbsp; A K T I V I T A S</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=republikofxontol&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0D1117&quote_color=FAC4C8&author_color=F29FB0&hide_border=true" width="48%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="4" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&layout=compact" width="100%" alt="Bahasa Pemrograman Terbanyak" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&quote_color=FAC4C8&author_color=F29FB0&border_color=F29FB0" width="100%" alt="Kutipan Dev" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=republikofxontol&theme=dark&no-frame=false&no-bg=true&margin-w=4" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=republikofxontol&color=DE7793&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=republikofxontol&color=DE7793&style=flat-square&label=PROFILE+VIEWS" alt="Total Kunjungan Profil" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CLEAN HEADING: SUPPORT -->
+<!-- DUKUNGAN -->
 <h2 align="center">D U K U N G A N</h2>
 
 <p align="center">
@@ -158,7 +165,7 @@
 <br/>
 
 <p align="center">
-  <sub style="color: #DE7793;"><b>Synchronized with precision • Styled with Denia's Pink Aesthetic (#F29FB0)</b></sub>
+  <sub style="color: #DE7793; letter-spacing: 1px;"><b>Synchronized with precision • Styled with Denia's Pink Aesthetic (#F29FB0)</b></sub>
 </p>
 
 </div>
