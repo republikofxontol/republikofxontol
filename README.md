@@ -1,19 +1,15 @@
 <div align="center">
 
-<!-- FULL WIDTH HEADER BANNER -->
-<!-- Catatan: Untuk animasi banner di GitHub, gunakan file GIF atau URL video internal GitHub (user-attachments) -->
-<img src="https://cdn.nekohime.site/file/tcbddhqs.mp4" width="100%" alt="Header Banner" style="border-radius: 8px;" />
+<img src="denia.gif" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
-<!-- ANIMATED HEADER TYPOGRAPHY (RESPONSIF HP & PC) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=F29FB0&center=true&vCenter=true&width=450&lines=ADAM+NUR+SETYAWAN;ADMINISTRASI+%26+LOGISTIK;CODE+%26+TECH+AUTOMATION;CREATIVE+ENTHUSIAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F29FB0&center=true&vCenter=true&width=450&lines=ADAM+NUR+SETYAWAN;ADMINISTRASI+%26+LOGISTIK;CODE+%26+TECH+AUTOMATION;CREATIVE+ENTHUSIAST" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=40&section=header" width="100%"/>
 </p>
 
-<!-- TENTANG SAYA -->
 <h2 align="center">T E N T A N G &nbsp; S A Y A</h2>
 
 <p align="center" style="max-width: 820px; font-size: 15px; line-height: 1.8; color: #E6EDF3;">
@@ -26,7 +22,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- SOCIALS -->
 <h2 align="center">M A R I &nbsp; T E R H U B U N G</h2>
 
 <p align="center">
@@ -46,7 +41,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- TECH STACK -->
 <h2 align="center">T E K N O L O G I &nbsp; & &nbsp; P E R A L A T A N</h2>
 
 <h3 align="center">Frontend & Core Programming</h3>
@@ -100,7 +94,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
 </p>
 
-<!-- SNAKE GAME -->
 <h2 align="center">K O N T R I B U S I &nbsp; G I T H U B</h2>
 
 <p align="center">
@@ -111,37 +104,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=30&section=header" width="100%"/>
 </p>
 
-<!-- STATISTIK KONTRIBUSI (SIMETRIS & PRESISI) -->
 <h2 align="center">R I N G K A S A N &nbsp; K O N T R I B U S I</h2>
 
-<table align="center" border="0" cellpadding="0" cellspacing="4" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&show_icons=true" width="100%" alt="Statistik Profil" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=republikofxontol&theme=dark&background=0D1117&border=F29FB0&stroke=F29FB0&ring=DE7793&fire=DE7793&currStreakLabel=FAC4C8&sideNums=F2B5B9&sideLabels=EEADB9&dates=FAC4C8" width="100%" alt="Statistik Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&show_icons=true" width="95%" alt="Statistik Profil" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=republikofxontol&theme=dark&background=0D1117&border=F29FB0&stroke=F29FB0&ring=DE7793&fire=DE7793&currStreakLabel=FAC4C8&sideNums=F2B5B9&sideLabels=EEADB9&dates=FAC4C8" width="95%" alt="Statistik Streak" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- AKTIVITAS & KUTIPAN (SIMETRIS & PRESISI) -->
+<h2 align="center">G R A F I K &nbsp; A K T I V I T A S</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=republikofxontol&bg_color=0D1117&color=F29FB0&line=DE7793&point=FAC4C8&area=true&hide_border=false&border_color=F29FB0" width="95%" alt="Grafik Aktivitas GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
+</p>
+
 <h2 align="center">S T A T I S T I K &nbsp; A K T I V I T A S</h2>
 
-<table align="center" border="0" cellpadding="0" cellspacing="4" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&layout=compact" width="100%" alt="Bahasa Pemrograman Terbanyak" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&quote_color=FAC4C8&author_color=F29FB0&border_color=F29FB0" width="100%" alt="Kutipan Dev" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=republikofxontol&theme=dark&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&border_color=F29FB0&layout=compact" width="95%" alt="Bahasa Pemrograman Terbanyak" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&quote_color=FAC4C8&author_color=F29FB0&border_color=F29FB0" width="95%" alt="Kutipan Dev" />
+</p>
 
 <br/>
 
@@ -150,10 +145,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
 </p>
 
-<!-- DUKUNGAN -->
 <h2 align="center">D U K U N G A N</h2>
 
 <p align="center">
