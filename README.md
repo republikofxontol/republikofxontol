@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FULL WIDTH HEADER VIDEO / BANNER -->
-<video src="https://u.pone.rs/finiaagm.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(242, 159, 176, 0.35);"></video>
+<video src="https://u.pone.rs/finiaagm.mp4" autoplay loop muted playsinline width="100%"></video>
 
 <br/>
 
@@ -12,29 +12,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=50&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: ABOUT ME -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35px" /> 
-  TENTANG SAYA
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: ABOUT ME -->
+<h2 align="center">T E N T A N G &nbsp; S A Y A</h2>
 
 <p align="center" style="max-width: 800px; font-size: 16px; line-height: 1.8;">
   <b>Profesional Otomatisasi & Tata Kelola Perkantoran</b> yang berdedikasi terhadap efisiensi operasional dan sistem manajerial yang terstruktur.<br/>
   Memiliki keahlian mendalam dalam <b>arsitektur kearsipan digital</b>, <b>korespondensi bisnis</b>, <b>manajemen basis data</b>, serta <b>alur operasional logistik tingkat lanjut</b>.<br/><br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px"/> <i>Lebih dari sekadar administrator, saya memiliki antusiasme besar pada rekayasa perangkat lunak dan otomasi teknologi.<br/> Saya memadukan logika komputasi modern dengan kebutuhan operasional bisnis untuk menciptakan ekosistem kerja yang lebih cerdas, cepat, dan produktif.</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px"/>
+  <i>Lebih dari sekadar administrator, saya memiliki antusiasme besar pada rekayasa perangkat lunak dan otomasi teknologi.<br/> Saya memadukan logika komputasi modern dengan kebutuhan operasional bisnis untuk menciptakan ekosistem kerja yang lebih cerdas, cepat, dan produktif.</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: SOCIALS -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35px" />
-  MARI TERHUBUNG
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: SOCIALS -->
+<h2 align="center">M A R I &nbsp; T E R H U B U N G</h2>
 
 <p align="center">
   <a href="https://bsky.app/profile/adamnursetyawan.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-EEADB9?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
@@ -53,12 +45,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: TECH STACK -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35px" />
-  TECH STACK & TOOLS
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: TECH STACK -->
+<h2 align="center">T E K N O L O G I &nbsp; & &nbsp; P E R A L A T A N</h2>
 
 ### Frontend & Core Programming
 <p align="center">
@@ -111,29 +99,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DE7793&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: SNAKE EATING CONTRIBUTIONS -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35px" />
-  SNAKE CONTRIBUTION GAME
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: SNAKE GAME -->
+<h2 align="center">K O N T R I B U S I &nbsp; G I T H U B</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/republikofxontol/republikofxontol/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/republikofxontol/republikofxontol/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/republikofxontol/republikofxontol/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://github.com/republikofxontol/republikofxontol/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%" alt="GitHub Contribution Grid Snake" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F29FB0&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: CHESS & PLAY ARENA -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="35px" />
-  CHESS ARENA & TACTICS
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: CHESS -->
+<h2 align="center">A R E N A &nbsp; C A T U R</h2>
 
 <p align="center">
   <a href="https://chess.com" target="_blank">
@@ -148,12 +126,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2B5B9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: GITHUB TELEMETRY -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35px" />
-  ACTIVITY & TELEMETRY
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: STATS -->
+<h2 align="center">S T A T I S T I K &nbsp; A K T I V I T A S</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=republikofxontol&bg_color=0D1117&title_color=F29FB0&text_color=FAC4C8&icon_color=DE7793&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
@@ -172,12 +146,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EEADB9&height=30&section=header" width="100%"/>
 </p>
 
-<!-- CUTE ANIMATED HEADING: SUPPORT & DONATIONS -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="35px" />
-  SUPPORT & SPONSORSHIP
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="35px" />
-</h2>
+<!-- CLEAN HEADING: SUPPORT -->
+<h2 align="center">D U K U N G A N</h2>
 
 <p align="center">
   <a href="https://buymeacoffee.com/adamnurs_" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F29FB0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
